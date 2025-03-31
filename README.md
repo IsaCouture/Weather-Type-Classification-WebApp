@@ -2,10 +2,11 @@
 
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/uses-flask.svg" />
+  <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Built%20with-Love-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Uses-Flask-green?style=for-the-badge&logo=flask" />
 </p>
+
 
 ## 🚀 Overview
 A machine learning-powered web application for predicting weather types based on various atmospheric conditions. Built using Flask and multiple ML models, this app classifies weather into **Rainy ☔, Cloudy ☁️, Sunny ☀️, and Snowy ❄️**.
